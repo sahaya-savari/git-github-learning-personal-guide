@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub — Complete Practical Guide (Beginner → Advanced → Professional)
+# 🚀 Git & GitHub — Complete Practical Guide 
 
 Ultimate step-by-step documentation covering:
 - Git fundamentals
