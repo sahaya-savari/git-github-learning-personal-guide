@@ -10,86 +10,86 @@ Ultimate step-by-step documentation covering:
 
 ---
 
-1. [👋 Introduction](#-introduction)
-2. [🚀 Quick Start (5 Steps)](#-quick-start-5-steps)
-3. [🧠 What is Git](#-what-is-git)
-4. [🌐 What is GitHub](#-what-is-github)
-5. [🧩 Core Terminology](#-core-terminology)
-6. [🧰 Installing Git (Windows)](#-installing-git-windows)
-7. [⚙️ Initial Git Configuration](#-initial-git-configuration)
-8. [📁 Creating a Repository](#-creating-a-repository)
-9. [🧠 Git Mental Model](#-git-mental-model)
-10. [♻️ Git File Lifecycle](#-git-file-lifecycle)
-11. [✅ Staging Files](#-staging-files)
-12. [📝 Committing Changes](#-committing-changes)
-13. [🔍 Understanding Commits Internally](#-understanding-commits-internally)
-14. [🗂️ Working Directory vs Staging vs Repository](#-working-directory-vs-staging-vs-repository)
-15. [🧪 Inspecting Changes](#-inspecting-changes)
-16. [🔗 Connecting to GitHub](#-connecting-to-github)
-17. [⬆️ Pushing Code](#-pushing-code)
-18. [📥 Cloning Repositories](#-cloning-repositories)
-19. [⬇️ Pulling Updates](#-pulling-updates)
-20. [🛰️ Fetch vs Pull](#-fetch-vs-pull)
-21. [🌿 Branching](#-branching)
-22. [🤝 Merging](#-merging)
-23. [⚔️ Merge Conflicts](#-merge-conflicts)
-24. [🔁 Rebase (Advanced)](#-rebase-advanced)
-25. [🍴 Forking & Open-Source Workflow](#-forking--open-source-workflow)
-26. [📬 Pull Requests](#-pull-requests)
-27. [🧹 Undoing Mistakes](#-undoing-mistakes)
-28. [🔎 Git Reflog (Recovery Tool)](#-git-reflog-recovery-tool)
-29. [🧭 Viewing History](#-viewing-history)
-30. [🏷️ Tags (Releases)](#-tags-releases)
-31. [📦 Git Stash](#-git-stash)
-32. [🚫 .gitignore](#-gitignore)
-33. [🔐 Authentication (HTTPS vs SSH)](#-authentication-https-vs-ssh)
-34. [🧯 Common Errors & Fixes](#-common-errors--fixes)
-35. [⭐ Best Practices](#-best-practices)
-36. [⚡ Professional Workflow](#-professional-workflow)
-37. [📝 Commit Message Standards](#-commit-message-standards)
-38. [🎯 Practice Exercises](#-practice-exercises)
-39. [📘 Git Command Cheat Sheet](#-git-command-cheat-sheet)
+# 📚 Complete Table of Contents
 
-40. [🏢 Enterprise Git & Advanced Internals](#-enterprise-git--advanced-internals)
-41. [🔬 How Git Works Internally](#-how-git-works-internally)
-42. [🌳 Git Flow Branching Model](#-git-flow-branching-model)
-43. [🧩 Git Submodules](#-git-submodules)
-44. [🪝 Git Hooks](#-git-hooks)
-45. [🚀 CI/CD Integration](#-cicd-integration)
-46. [🏗 Monorepos](#-monorepos)
-47. [🔄 Cherry-Pick](#-cherry-pick)
-48. [🧠 Advanced History Rewriting](#-advanced-history-rewriting)
-49. [🧯 Large Team Collaboration Strategy](#-large-team-collaboration-strategy)
-50. [📊 Semantic Versioning](#-semantic-versioning)
-51. [🗂 Large Repository Optimization](#-large-repository-optimization)
-52. [🧠 Git Bisect (Debugging Tool)](#-git-bisect-debugging-tool)
-53. [🛡 Security & Secret Management](#-security--secret-management)
-54. [🧩 Git Worktrees](#-git-worktrees)
-55. [📦 Subtree (Alternative to Submodules)](#-subtree-alternative-to-submodules)
-56. [🧭 Detached HEAD Explained](#-detached-head-explained)
-57. [🏁 Final Enterprise Checklist](#-final-enterprise-checklist)
-58. [🏆 Mastery Summary](#-mastery-summary)
-
-59. [🔬 Deep Git Object Plumbing (Low-Level Commands)](#-deep-git-object-plumbing-low-level-commands)
-60. [🧠 Building Git from Source](#-building-git-from-source)
-61. [📊 Git Performance Tuning Guide](#-git-performance-tuning-guide)
-62. [🏗 Massive Monorepo Architecture Deep Dive](#-massive-monorepo-architecture-deep-dive)
-63. [📘 Printable Git Book Format](#-printable-git-book-format)
-64. [🧠 Git Algorithm Design Explained](#-git-algorithm-design-explained)
-65. [🔁 How Git Merge Works Internally](#-how-git-merge-works-internally)
-66. [🧮 Three-Way Merge Algorithm](#-three-way-merge-algorithm-conceptual-model)
-67. [⚙ How Git Calculates Diffs](#-how-git-calculates-diffs)
-68. [🔬 SHA-1 Collision Deep Dive](#-sha-1-collision-deep-dive)
-69. [📦 Content Addressable Storage](#-content-addressable-storage)
-70. [📊 Git Performance Benchmark Framework](#-git-performance-benchmark-framework)
-71. [📊 Visual Diagrams (Conceptual Git Graphics)](#-visual-diagrams-conceptual-git-graphics)
-72. [🎯 Git Interview Questions](#-git-interview-questions-beginner--architect)
-73. [🛠 Real-World Debugging Case Studies](#-real-world-debugging-case-studies)
-74. [🧯 Git Disaster Recovery Playbook](#-git-disaster-recovery-playbook)
-75. [📘 Structured Git Book Layout (Complete Edition)](#-structured-git-book-layout-complete-edition)
-76. [🏁 Final Mastery Statement](#-final-mastery-statement)
----
-
+| # | Section | Link |
+|---|--------|------|
+| 1 | 👋 Introduction | [Go](#-introduction) |
+| 2 | 🚀 Quick Start (5 Steps) | [Go](#-quick-start-5-steps) |
+| 3 | 🧠 What is Git | [Go](#-what-is-git) |
+| 4 | 🌐 What is GitHub | [Go](#-what-is-github) |
+| 5 | 🧩 Core Terminology | [Go](#-core-terminology) |
+| 6 | 🧰 Installing Git (Windows) | [Go](#-installing-git-windows) |
+| 7 | ⚙️ Initial Git Configuration | [Go](#-initial-git-configuration) |
+| 8 | 📁 Creating a Repository | [Go](#-creating-a-repository) |
+| 9 | 🧠 Git Mental Model | [Go](#-git-mental-model) |
+| 10 | ♻️ Git File Lifecycle | [Go](#-git-file-lifecycle) |
+| 11 | ✅ Staging Files | [Go](#-staging-files) |
+| 12 | 📝 Committing Changes | [Go](#-committing-changes) |
+| 13 | 🔍 Understanding Commits Internally | [Go](#-understanding-commits-internally) |
+| 14 | 🗂️ Working Directory vs Staging vs Repository | [Go](#-working-directory-vs-staging-vs-repository) |
+| 15 | 🧪 Inspecting Changes | [Go](#-inspecting-changes) |
+| 16 | 🔗 Connecting to GitHub | [Go](#-connecting-to-github) |
+| 17 | ⬆️ Pushing Code | [Go](#-pushing-code) |
+| 18 | 📥 Cloning Repositories | [Go](#-cloning-repositories) |
+| 19 | ⬇️ Pulling Updates | [Go](#-pulling-updates) |
+| 20 | 🛰️ Fetch vs Pull | [Go](#-fetch-vs-pull) |
+| 21 | 🌿 Branching | [Go](#-branching) |
+| 22 | 🤝 Merging | [Go](#-merging) |
+| 23 | ⚔️ Merge Conflicts | [Go](#-merge-conflicts) |
+| 24 | 🔁 Rebase (Advanced) | [Go](#-rebase-advanced) |
+| 25 | 🍴 Forking & Open-Source Workflow | [Go](#-forking--open-source-workflow) |
+| 26 | 📬 Pull Requests | [Go](#-pull-requests) |
+| 27 | 🧹 Undoing Mistakes | [Go](#-undoing-mistakes) |
+| 28 | 🔎 Git Reflog (Recovery Tool) | [Go](#-git-reflog-recovery-tool) |
+| 29 | 🧭 Viewing History | [Go](#-viewing-history) |
+| 30 | 🏷️ Tags (Releases) | [Go](#-tags-releases) |
+| 31 | 📦 Git Stash | [Go](#-git-stash) |
+| 32 | 🚫 .gitignore | [Go](#-gitignore) |
+| 33 | 🔐 Authentication (HTTPS vs SSH) | [Go](#-authentication-https-vs-ssh) |
+| 34 | 🧯 Common Errors & Fixes | [Go](#-common-errors--fixes) |
+| 35 | ⭐ Best Practices | [Go](#-best-practices) |
+| 36 | ⚡ Professional Workflow | [Go](#-professional-workflow) |
+| 37 | 📝 Commit Message Standards | [Go](#-commit-message-standards) |
+| 38 | 🎯 Practice Exercises | [Go](#-practice-exercises) |
+| 39 | 📘 Git Command Cheat Sheet | [Go](#-git-command-cheat-sheet) |
+| 40 | 🏢 Enterprise Git & Advanced Internals | [Go](#-enterprise-git--advanced-internals) |
+| 41 | 🔬 How Git Works Internally | [Go](#-how-git-works-internally) |
+| 42 | 🌳 Git Flow Branching Model | [Go](#-git-flow-branching-model) |
+| 43 | 🧩 Git Submodules | [Go](#-git-submodules) |
+| 44 | 🪝 Git Hooks | [Go](#-git-hooks) |
+| 45 | 🚀 CI/CD Integration | [Go](#-cicd-integration) |
+| 46 | 🏗 Monorepos | [Go](#-monorepos) |
+| 47 | 🔄 Cherry-Pick | [Go](#-cherry-pick) |
+| 48 | 🧠 Advanced History Rewriting | [Go](#-advanced-history-rewriting) |
+| 49 | 🧯 Large Team Collaboration Strategy | [Go](#-large-team-collaboration-strategy) |
+| 50 | 📊 Semantic Versioning | [Go](#-semantic-versioning) |
+| 51 | 🗂 Large Repository Optimization | [Go](#-large-repository-optimization) |
+| 52 | 🧠 Git Bisect (Debugging Tool) | [Go](#-git-bisect-debugging-tool) |
+| 53 | 🛡 Security & Secret Management | [Go](#-security--secret-management) |
+| 54 | 🧩 Git Worktrees | [Go](#-git-worktrees) |
+| 55 | 📦 Subtree (Alternative to Submodules) | [Go](#-subtree-alternative-to-submodules) |
+| 56 | 🧭 Detached HEAD Explained | [Go](#-detached-head-explained) |
+| 57 | 🏁 Final Enterprise Checklist | [Go](#-final-enterprise-checklist) |
+| 58 | 🏆 Mastery Summary | [Go](#-mastery-summary) |
+| 59 | 🔬 Deep Git Object Plumbing (Low-Level Commands) | [Go](#-deep-git-object-plumbing-low-level-commands) |
+| 60 | 🧠 Building Git from Source | [Go](#-building-git-from-source) |
+| 61 | 📊 Git Performance Tuning Guide | [Go](#-git-performance-tuning-guide) |
+| 62 | 🏗 Massive Monorepo Architecture Deep Dive | [Go](#-massive-monorepo-architecture-deep-dive) |
+| 63 | 📘 Printable Git Book Format | [Go](#-printable-git-book-format) |
+| 64 | 🧠 Git Algorithm Design Explained | [Go](#-git-algorithm-design-explained) |
+| 65 | 🔁 How Git Merge Works Internally | [Go](#-how-git-merge-works-internally) |
+| 66 | 🧮 Three-Way Merge Algorithm | [Go](#-three-way-merge-algorithm-conceptual-model) |
+| 67 | ⚙ How Git Calculates Diffs | [Go](#-how-git-calculates-diffs) |
+| 68 | 🔬 SHA-1 Collision Deep Dive | [Go](#-sha-1-collision-deep-dive) |
+| 69 | 📦 Content Addressable Storage | [Go](#-content-addressable-storage) |
+| 70 | 📊 Git Performance Benchmark Framework | [Go](#-git-performance-benchmark-framework) |
+| 71 | 📊 Visual Diagrams (Conceptual Git Graphics) | [Go](#-visual-diagrams-conceptual-git-graphics) |
+| 72 | 🎯 Git Interview Questions | [Go](#-git-interview-questions-beginner--architect) |
+| 73 | 🛠 Real-World Debugging Case Studies | [Go](#-real-world-debugging-case-studies) |
+| 74 | 🧯 Git Disaster Recovery Playbook | [Go](#-git-disaster-recovery-playbook) |
+| 75 | 📘 Structured Git Book Layout (Complete Edition) | [Go](#-structured-git-book-layout-complete-edition) |
+| 76 | 🏁 Final Mastery Statement | [Go](#-final-mastery-statement) |
 # 👋 Introduction
 
 Git is a **distributed version control system**.
